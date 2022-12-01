@@ -1,4 +1,4 @@
-# Hora-de-codar-2
+# Hora de codar 2
 *A vingança do Coder, atividade de Java realizada no Proa.*
 
 - 1 - Faça um programa que leia um valor informado pelo usuário e diga se o valor informado é positivo, negativo ou zero.
